@@ -1,0 +1,144 @@
+{
+  "basics": {
+    "name": "Patrich Paolo Datu",
+    "label": "Android Mobile Developer",
+    "picture": "https://media.licdn.com/media/p/8/005/095/163/37256de.jpg",
+    "email": "pbdatu@rogomi.com",
+    "phone": "+639271296207"
+  },
+  "education": [{
+    "institution": "University of the Philippines - Diliman",
+    "course": "Computer Science",
+    "studyType": "Bachelor",
+    "startDate": "2009",
+    "endDate": "2013"
+  }],
+  "skills": [
+    {
+      "category": "Programming Languages",
+      "technologies":[{
+        "name": "Java",
+        "number_of_years": 4
+      }, {
+        "name": "Android Development",
+        "number_of_years": 4
+      }]
+    },{
+      "category": "Version Control",
+      "technologies":[{
+        "name": "Perforce",
+        "number_of_years": 3
+      },{
+        "name": "Git",
+        "number_of_years": 2
+      },{
+        "name": "SVN",
+        "number_of_years": 1
+      }]
+    },{
+      "category": "Web Services",
+      "technologies":[{
+        "name": "Amazon Web Services",
+        "number_of_years": 1
+      }]
+    }
+  ],
+  "work": [{
+    "company": "Rogomi Inc",
+    "position": "Team Lead/Mobile Developer",
+    "startDate": "July 2016",
+    "endDate": "Present",
+    "summary": "Communicates with clients regarding technical requirements & progress. Gathers requirements around functionality and translate those requirements into functional solutions. Realigns technical requirements in the event of changes presented by client. Delegates tasks to each developer based on technical requirements considering the task’s priority, developers’ workloads and time constraints. Participates in development work of four projects, three of which have been published on Google Play Store.",
+    "highlights": [],
+    "projects":[
+      {
+        "name":"Zukii Rider",
+        "description":"A mobile application that enables Riders accept job orders from customers, track job orders being delivered realtime, and complete deliveries",
+        "role":"Android Developer",
+        "startDate":"2017",
+        "endDate":"Present",
+        "technologies":"Android"
+      },{
+        "name":"ShApp4Points",
+        "description":"ShApp4Points is an application where you can get rewards by sharing information regarding shopping trips and dining occasions.",
+        "role":"Lead Developer",
+        "startDate":"2016",
+        "endDate":"Present",
+        "technologies":"Android, Parse"
+      },{
+        "name":"Technoprobe",
+        "description":"An application designed for tablets for various types of users that lets them track eTag states, move eTags from one state to another and update eTag information.",
+        "role":"Lead Developer",
+        "startDate":"2016",
+        "endDate":"Present",
+        "technologies":"Android"
+      },{
+        "name":"Book it",
+        "description":"Simple yet powerful booking software for service providers.",
+        "role":"Lead Developer",
+        "startDate":"2016",
+        "endDate":"Present",
+        "technologies":"Android"
+      },{
+        "name":"Gift it",
+        "description":"A social networking app where users can offer and receive gifts from friends and family.",
+        "role":"Lead Developer",
+        "startDate":"2016",
+        "endDate":"Present",
+        "technologies":"Android"
+      },{
+        "name":"Pedialink",
+        "description":"PediaLink is the Philippines’ first ever integrated doctor-patient health tracking app. Pediatricians and doctors can create their records on their phones and sync them with their patients.",
+        "role":"Andrtoid Developer",
+        "startDate":"2016",
+        "endDate":"Present",
+        "technologies":"Android"
+      }
+    ]
+  },{
+    "company": "Samsung Reseasrch and Development Institute Philippines",
+    "position": "Engineer",
+    "startDate": "May 2013",
+    "endDate": "July 2016",
+    "summary": "Worked as software developer for the homescreen application of Samsung smartphones and tablets running on Android OS. Formulated design alternatives to prevent intellectual property infringement for Samsung flagship models. Co-authored an A2 grade patent for Samsung’s growing initiative for innovation. Took part on developing proof of concepts and prototype applications that brought the company new projects for commercialization.",
+    "highlights": [],
+    "projects":[{
+      "name":"Kiosk Application",
+      "description":"An innovative solution comprising of a touch screen large-format interface and an android application aiming for a more efficient queuing and ordering system.",
+      "role":"Main Developer",
+      "startDate":"",
+      "endDate":"",
+      "technologies":"Android "
+    },{
+      "name":"USSD Lockscreen Shortcut",
+      "description":"A Samsung initiative for local telecommunications companies to provide their subscribers quick access to their USSD services such as call and text promos and roaming.",
+      "role":"Main Developer",
+      "startDate":"",
+      "endDate":"",
+      "technologies":"Android"
+    },{
+      "name":"Customized Homescreen",
+      "description":"Customized Homescreen content of Samsung Tablets showcasing applications to improve productivity of employees.",
+      "role":"Main Developer",
+      "startDate":"",
+      "endDate":"",
+      "technologies":"Android"
+    },{
+      "name":"Ordering System for an international coffee company",
+      "description":"A location-based application that searches for nearby branches and processes customer orders and payments through Near-field communication.",
+      "role":"Main Developer",
+      "startDate":"",
+      "endDate":"",
+      "technologies":"Android"
+    },{
+      "name":"Plotting User Movements from Accelerometer Data",
+      "description":"An application that tracks user movement from a host device and plots the processed data to another device.",
+      "role":"Main Developer",
+      "startDate":"",
+      "endDate":"",
+      "technologies":"Android"
+    }]
+  }
+  ],
+  "certification": []
+}
