@@ -35,12 +35,6 @@
         "name": "SVN",
         "number_of_years": 1
       }]
-    },{
-      "category": "Web Services",
-      "technologies":[{
-        "name": "Amazon Web Services",
-        "number_of_years": 1
-      }]
     }
   ],
   "work": [{
@@ -103,6 +97,13 @@
     "summary": "Worked as software developer for the homescreen application of Samsung smartphones and tablets running on Android OS. Formulated design alternatives to prevent intellectual property infringement for Samsung flagship models. Co-authored an A2 grade patent for Samsung’s growing initiative for innovation. Took part on developing proof of concepts and prototype applications that brought the company new projects for commercialization.",
     "highlights": [],
     "projects":[{
+      "name":"Samsung Built-for-Filipinos (BFF) : Samsung 321 Emergency",
+      "description":"A location-based application that provides contacts of nearby emergency services such as Police Departments and Fire Stations in case of tragic situations",
+      "role":"Main Developer",
+      "startDate":"",
+      "endDate":"",
+      "technologies":"Android "
+    },{
       "name":"Kiosk Application",
       "description":"An innovative solution comprising of a touch screen large-format interface and an android application aiming for a more efficient queuing and ordering system.",
       "role":"Main Developer",
