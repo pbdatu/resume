@@ -15,25 +15,13 @@
   }],
   "skills": [
     {
-      "category": "Programming Languages",
+      "category": "Core Competencies",
       "technologies":[{
         "name": "Java",
         "number_of_years": 4
       }, {
-        "name": "Android Development",
+        "name": "Android SDK",
         "number_of_years": 4
-      }]
-    },{
-      "category": "Version Control",
-      "technologies":[{
-        "name": "Perforce",
-        "number_of_years": 3
-      },{
-        "name": "Git",
-        "number_of_years": 2
-      },{
-        "name": "SVN",
-        "number_of_years": 1
       }]
     }
   ],
