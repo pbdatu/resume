@@ -51,6 +51,7 @@
         "role":"Android Developer",
         "startDate":"2017",
         "endDate":"Present",
+        "months":"(3 months)",
         "technologies":"Android"
       },{
         "name":"ShApp4Points",
@@ -58,6 +59,7 @@
         "role":"Lead Developer",
         "startDate":"2016",
         "endDate":"Present",
+        "months":"(10 months)",
         "technologies":"Android, Parse"
       },{
         "name":"Technoprobe",
@@ -65,27 +67,31 @@
         "role":"Lead Developer",
         "startDate":"2016",
         "endDate":"Present",
+        "months":"(8 months)",
         "technologies":"Android"
       },{
         "name":"Book it",
         "description":"Simple yet powerful booking software for service providers.",
         "role":"Lead Developer",
         "startDate":"2016",
-        "endDate":"Present",
+        "endDate":"Feb 2017",
+        "months":"(8 months)",
         "technologies":"Android"
       },{
         "name":"Gift it",
         "description":"A social networking app where users can offer and receive gifts from friends and family.",
         "role":"Lead Developer",
         "startDate":"2016",
-        "endDate":"Present",
+        "endDate":"Dec 2016",
+        "months":"(6 months)",
         "technologies":"Android"
       },{
         "name":"Pedialink",
         "description":"PediaLink is the Philippines’ first ever integrated doctor-patient health tracking app. Pediatricians and doctors can create their records on their phones and sync them with their patients.",
         "role":"Andrtoid Developer",
         "startDate":"2016",
-        "endDate":"Present",
+        "endDate":"Feb 2017",
+        "months":"(8 months)",
         "technologies":"Android"
       }
     ]
@@ -100,43 +106,49 @@
       "name":"Samsung Built-for-Filipinos (BFF) : Samsung 321 Emergency",
       "description":"A location-based application that provides contacts of nearby emergency services such as Police Departments and Fire Stations in case of tragic situations",
       "role":"Main Developer",
-      "startDate":"",
-      "endDate":"",
+      "startDate":"2015",
+      "endDate":"2016",
+      "months":"(8 months)",
       "technologies":"Android "
     },{
       "name":"Kiosk Application",
       "description":"An innovative solution comprising of a touch screen large-format interface and an android application aiming for a more efficient queuing and ordering system.",
       "role":"Main Developer",
-      "startDate":"",
-      "endDate":"",
+      "startDate":"Jan 2016",
+      "endDate":"Mar 2016",
+      "months":"(3 months)",
       "technologies":"Android "
     },{
       "name":"USSD Lockscreen Shortcut",
       "description":"A Samsung initiative for local telecommunications companies to provide their subscribers quick access to their USSD services such as call and text promos and roaming.",
       "role":"Main Developer",
-      "startDate":"",
-      "endDate":"",
+      "startDate":"2015",
+      "endDate":"2015",
+      "months":"(4 months)",
       "technologies":"Android"
     },{
       "name":"Customized Homescreen",
       "description":"Customized Homescreen content of Samsung Tablets showcasing applications to improve productivity of employees.",
       "role":"Main Developer",
-      "startDate":"",
-      "endDate":"",
+      "startDate":"2015",
+      "endDate":"2015",
+      "months":"(8 months)",
       "technologies":"Android"
     },{
       "name":"Ordering System Application",
       "description":"A location-based application that searches for nearby branches and processes customer orders and payments through Near-field communication.",
       "role":"Main Developer",
-      "startDate":"",
-      "endDate":"",
+      "startDate":"2014",
+      "endDate":"2015",
+      "months":"(8 months)",
       "technologies":"Android"
     },{
       "name":"Plotting User Movements from Accelerometer Data",
       "description":"An application that tracks user movement from a host device and plots the processed data to another device.",
       "role":"Main Developer",
-      "startDate":"",
-      "endDate":"",
+      "startDate":"2014",
+      "endDate":"2014",
+      "months":"(3 months)",
       "technologies":"Android"
     }]
   }
